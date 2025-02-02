@@ -1,0 +1,15 @@
+
+.tab-container{
+  display: flex;
+  padding: 5px;
+}
+
+.tab-header{
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.tab-body{
+  height: 300px;
+  border: 1px solid black;
+}
